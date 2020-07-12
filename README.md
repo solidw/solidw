@@ -8,3 +8,10 @@
 - Node.js
 - Contribution to open source
 - Making awesome services that can make our lives better!
+
+### How to
+THIS PROFILE IS DISPLAYED WHEN YOU CREATE REPOSITORY NAMED YOUR NICKNAME!
+
+TO ME, REPO TITLE: `solidw` 
+
+TRY IT😁
