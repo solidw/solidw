@@ -8,6 +8,8 @@
 - React, React Native
 - Node.js
 - Contribution to open source
+  - jest: https://github.com/facebook/jest/pull/9300
+  - graphql-js: https://github.com/graphql/graphql-js/pull/2693
 - Making awesome services that can make our lives better!
 
 ### How to
@@ -17,5 +19,5 @@ TO ME, REPO TITLE: `solidw`
 
 TRY IT😁
 
-### Contact
+### Contact me
 📨 solidw@naver.com
