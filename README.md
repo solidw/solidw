@@ -7,7 +7,7 @@
 - TypeScript (It's a too difficult to me yet ..)
 - React, React Native
 - Node.js
-- Contribution to open source
+- Contributing to open source
   - jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
 - Making awesome services that can make our lives better!
