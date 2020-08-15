@@ -5,7 +5,7 @@
 ## Interest
 - JavaScript
 - TypeScript (It's a too difficult to me yet ..)
-- React, React Native
+- React, React Native, Redux, Context API
 - Node.js
 - Contributing to open source
   - jest: https://github.com/facebook/jest/pull/9300
