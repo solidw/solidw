@@ -11,6 +11,7 @@
   - jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
 - Making awesome services that can make our lives better!
+- Attend Seminar, Conference and Community Activity!
 
 ### How to
 THIS PROFILE IS DISPLAYED WHEN YOU CREATE REPOSITORY NAMED YOUR NICKNAME!
