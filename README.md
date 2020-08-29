@@ -20,5 +20,8 @@ TO ME, REPO TITLE: `solidw`
 
 TRY IT😁
 
+### Log
+[2020 Call for Code Korea Hackathon](http://news.imaeil.com/Education/2020061516143588412)
+
 ### Contact me
 📨 solidw@naver.com
