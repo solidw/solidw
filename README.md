@@ -1,6 +1,6 @@
 ### JavaScript Developer
 - Senior in Chungnam National University
-- Summer Intern at HayanMind
+- Summer Intern at [HayanMind](https://hayannmind.com)
 
 ## Interest
 - JavaScript
