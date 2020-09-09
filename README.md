@@ -15,7 +15,7 @@
 - Attending Seminar, Conference and Community Activity
   - PR team leader in Daejeon · Chungcheong Information Security Community [Daechung](https://www.facebook.com/%EB%8C%80%EC%A0%84%EC%B6%A9%EC%B2%AD-%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8-%EB%8F%99%EC%95%84%EB%A6%AC-%EC%97%B0%ED%95%A9-589186041597093)
 - UI/UX Design
-- Reading articles
+- Reading articles like velog, midium, ...etc
 
 ### How to
 THIS PROFILE IS DISPLAYED WHEN YOU CREATE REPOSITORY NAMED YOUR NICKNAME!
