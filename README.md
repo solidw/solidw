@@ -27,4 +27,4 @@ TRY IT😁
 ### Contact me
 📨 solidw@naver.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=solidw)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=solidw&show_icons=true)
