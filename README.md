@@ -4,9 +4,12 @@
 
 ## Interest
 - JavaScript
+  - React
+  - React Native
+  - GraphQL
+  - Next.js
+  - Node.js
 - TypeScript (newbie!)
-- React, React Native
-- Node.js
 - Contributing to open source
   - jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
@@ -17,13 +20,6 @@
   - [React Daejeon Community](https://bit.ly/react-daejeon-community-2nd) | [REPO](https://github.com/solidw/react-daejeon-community-2nd)
 - UI/UX Design
 - Reading articles like velog, midium, ...etc
-
-### How to
-THIS PROFILE IS DISPLAYED WHEN YOU CREATE REPOSITORY NAMED YOUR NICKNAME!
-
-TO ME, REPO TITLE: `solidw` 
-
-TRY IT😁
 
 ### Contact me
 📨 solidw@naver.com
