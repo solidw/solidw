@@ -3,12 +3,13 @@
 - [HayanMind](https://hayanmind.com) Intern
 
 ## Interest
-- JavaScript/TypeScript(Newbie!)
+- JavaScript
   - React
   - React Native
   - GraphQL
   - Next.js
   - Node.js
+  - TypeScript(Newbie!)
 - Contributing to open source
   - jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
