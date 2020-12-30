@@ -11,7 +11,7 @@
   - Node.js
   - TypeScript(Newbie!)
 - Contributing to open source
-  - jest: https://github.com/facebook/jest/pull/9300
+  - Jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
 - Making awesome services that can make our lives better
   - [2020 Call for Code Korea Hackathon](http://news.imaeil.com/Education/2020061516143588412) | [REPO](https://github.com/solidw/gogoschool)
