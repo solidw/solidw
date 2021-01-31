@@ -1,5 +1,5 @@
 ### JavaScript Developer
-- Frontend Developer in [HayanMind](https://hayanmind.com) 
+- Frontend Developer at [HayanMind](https://hayanmind.com) 
 
 ## Interest
 - JavaScript
