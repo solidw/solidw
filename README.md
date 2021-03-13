@@ -8,7 +8,7 @@
   - GraphQL
   - Next.js
   - Node.js
-  - TypeScript(Newbie!)
+  - TypeScript
 - Contributing to open source
   - Jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
