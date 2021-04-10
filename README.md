@@ -1,7 +1,9 @@
 ## JavaScript Developer
-- Frontend Developer at [HayanMind](https://hayanmind.com) 
+
+- Frontend Developer at [HayanMind](https://hayanmind.com)
 
 ## Interest
+
 - JavaScript
   - React
   - React Native
@@ -12,6 +14,7 @@
 - Contributing to open source
   - Jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
+  - react-native-website: https://github.com/facebook/react-native-website/pull/2584
 - Making awesome services that can make our lives better
   - [2020 Call for Code Korea Hackathon](http://news.imaeil.com/Education/2020061516143588412) | [REPO](https://github.com/solidw/gogoschool)
   - [SWHackathon](swhackathon.com) | [REPO](https://github.com/solidw/ARTravel)
@@ -22,6 +25,7 @@
 - Reading articles like Velog, Medium, ...etc
 
 ### Contact me
+
 📨 solidw@naver.com
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=solidw&show_icons=true)
