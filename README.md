@@ -15,6 +15,7 @@
   - Jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
   - react-native-website: https://github.com/facebook/react-native-website/pull/2584
+  - braze-docs: https://github.com/braze-inc/braze-docs/pull/2036
 - Making awesome services that can make our lives better
   - [2020 Call for Code Korea Hackathon](http://news.imaeil.com/Education/2020061516143588412) | [REPO](https://github.com/solidw/gogoschool)
   - [SWHackathon](swhackathon.com) | [REPO](https://github.com/solidw/ARTravel)
