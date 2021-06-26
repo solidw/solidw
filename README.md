@@ -1,6 +1,6 @@
 ## JavaScript Developer
 
-- Frontend Developer at [HayanMind](https://hayanmind.com)
+- JavaScript Developer at [HayanMind](https://hayanmind.com)
 
 ## Interest
 
@@ -11,6 +11,7 @@
   - Next.js
   - Node.js
   - TypeScript
+  - Functional Programming
 - Contributing to open source
   - Jest: https://github.com/facebook/jest/pull/9300
   - graphql-js: https://github.com/graphql/graphql-js/pull/2693
