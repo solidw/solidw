@@ -25,7 +25,7 @@
   - [React Daejeon Community](https://bit.ly/react-daejeon-community-2nd) | [REPO](https://github.com/solidw/react-daejeon-community-2nd)
 - UI/UX Design
 - Reading articles like Velog, Medium, ...etc
-- Currently looking for new domain in frontend.
+- Currently looking for new domain in frontend
 
 ### Contact me
 
