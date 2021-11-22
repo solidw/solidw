@@ -1,6 +1,6 @@
 ## JavaScript Developer
 
-- JavaScript Developer at [HayanMind](https://hayanmind.com)
+- JavaScript Developer at [Viva Republica](https://toss.im/)
 
 ## Interest
 
