@@ -31,6 +31,6 @@
 
 📨 solidw@naver.com
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=solidw&show_icons=true) -->
+![solidw's Github Stats](https://github-readme-stats.vercel.app/api?username=solidw&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolidw&count_bg=%23F0DB4F&title_bg=%23007ACC&icon=typescript.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com" alt="hits" align="right" />
