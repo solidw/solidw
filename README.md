@@ -1,6 +1,6 @@
-## JavaScript Developer
+## Frontend Developer
 
-- JavaScript Developer at [Viva Republica](https://toss.im/)
+- Frontend Developer at [Viva Republica](https://toss.im/)
 
 ## Interest
 
