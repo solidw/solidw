@@ -4,11 +4,12 @@
 
 ## Interest
 
-- JavaScript
+- Hard Skills
+  - HTML5 / CSS / JavaScript
   - React
+  - Next.js
   - React Native
   - GraphQL
-  - Next.js
   - Node.js
   - TypeScript
   - Functional Programming
@@ -30,6 +31,7 @@
 ### Contact me
 
 📨 solidw@naver.com
+🏠 https://solidw.github.io
 
 ![solidw's Github Stats](https://github-readme-stats.vercel.app/api?username=solidw&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
