@@ -1,6 +1,6 @@
 ## Frontend Developer
 
-- Frontend Developer at [Viva Republica](https://toss.im/)
+- Frontend Developer at [Toss Place](https://tossplace.com/)
 
 
 ## Hard skills
@@ -12,11 +12,10 @@
 - GraphQL
 - Node.js
 - TypeScript
-- Functional Programming
 
 ## Contribution about open source
 
-- Jest: https://github.com/facebook/jest/pull/9300
+- Jest: https://github.com/jestjs/jest/pull/9300
 - graphql-js: https://github.com/graphql/graphql-js/pull/2693
 - react-native-website: https://github.com/facebook/react-native-website/pull/2584
 - braze-docs: https://github.com/braze-inc/braze-docs/pull/2036
