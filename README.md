@@ -22,7 +22,7 @@
 
 ## Making awesome services that can make our lives better
 
-- [2020 Call for Code Korea Hackathon](http://news.imaeil.com/Education/2020061516143588412) | [REPO](https://github.com/solidw/gogoschool)
+- [2020 Call for Code Korea Hackathon](https://m.imaeil.com/Society/2020061516143588412) | [REPO](https://github.com/solidw/gogoschool)
 - [SWHackathon](swhackathon.com) | [REPO](https://github.com/solidw/ARTravel)
 
 ## Interests
