@@ -1,6 +1,4 @@
-## Frontend Developer
-
-- Frontend Developer at [Toss Place](https://tossplace.com/)
+## Entrepreneur
 
 ## Contribution
 
